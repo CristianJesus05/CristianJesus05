@@ -12,6 +12,7 @@
 - Basado en **Colombia**.
 - 🎮 En mis tiempos libres me apasionan los **videojuegos**.
 - 📈 En constante aprendizaje de mejores prácticas, estructuras de datos y backend.
+- Mi programador fav soy yo ⚡!
 
 ---
 
