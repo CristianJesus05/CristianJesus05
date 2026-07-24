@@ -26,8 +26,6 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radial)
-
 ---
 
 💡 *¡Siempre abierto a aprender, colaborar y construir nuevos proyectos!*.
