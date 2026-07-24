@@ -30,5 +30,5 @@
 
 ---
 
-💡 *¡Siempre abierto a aprender, colaborar y construir nuevos proyectos!*
+💡 *¡Siempre abierto a aprender, colaborar y construir nuevos proyectos!*.
 
