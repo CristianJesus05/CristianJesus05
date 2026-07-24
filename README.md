@@ -9,7 +9,7 @@
 ## 🚀 Sobre mí
 - 🎓 Estudiante de **Análisis y Desarrollo de Software** (SENA).
 - 🐍 Mi lenguaje principal y favorito es **Python**.
-- 🇨🇴 Basado en **Colombia**.
+- Basado en **Colombia**.
 - 🎮 En mis tiempos libres me apasionan los **videojuegos**.
 - 📈 En constante aprendizaje de mejores prácticas, estructuras de datos y backend.
 
