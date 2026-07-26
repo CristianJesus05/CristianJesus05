@@ -1,0 +1,1 @@
+print("¡Hola! Practicando Git y Python desde la terminal.")
