@@ -24,8 +24,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 ---
 
 💡 *¡Siempre abierto a aprender, colaborar y construir nuevos proyectos!*.
